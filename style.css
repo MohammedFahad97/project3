@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&family=Open+Sans&family=Orbitron&family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Montserrat+Alternates&family=Open+Sans&family=Orbitron&family=Poiret+One&display=swap');
+body{
+    background-color:#191511;
+    
+}
+.logo{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 110px;
+
+}
+.list{
+    
+    position: absolute;
+    columns: 5;
+    color: whitesmoke;
+    margin-top: 40px;
+    margin-left: 500px;
+    list-style-type: none;
+    font-family: "Open Sans";
+    font-size: 23px;
+}
+.list-item1{
+    font-weight: bolder;
+    font-size: 34 ;
+    color: white;
+    text-underline-position: below ;
+    
+}
+.small-button{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 83%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-family:"Open Sans" ;
+    font-size: 20px;
+    -webkit-transition: all 0.15s ease;
+    transition: all 0.15s ease;
+    text-align: center;
+    border-radius: 14px;
+    border-color: goldenrod;
+    color: goldenrod;
+    border: 2px solid goldenrod;
+    background-color: #191511;
+
+}
+.image{
+    position: absolute;
+    margin-top: 25%;
+    width: 100%;
+    size-adjust: 500px;
+}
+.p1{
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 64%;
+    color:rgb(112, 110, 110);
+    font-family: "Open Sans",'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 25px;
+}
+.p2{
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 64%;
+    color:rgb(112, 110, 110);
+    font-family: "Open Sans",'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 25px;
+
+}
+.p3{
+    position: absolute;
+    margin-top: 240px ;
+    margin-left: 64% ;
+    color:rgb(112, 110, 110);
+    font-family: "Open Sans",'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 25px;
+}
+.header{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 20%;
+    font-family:"Alfa Slab One",cursive ;
+    color: white;
+    font-size: 50px;
+}
+h4{
+    position: absolute;
+    margin-top: -50px;
+}
